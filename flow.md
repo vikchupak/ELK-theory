@@ -1,8 +1,8 @@
 Elastic Company products:
+- Filebeat is a lightweight log shipper. Sends logs to Logstash or directly to Elasticsearch.
+- Logstash. It processes the data (e.g., parsing, filtering, enriching) and forwards it to Elasticsearch.
 - Elasticsearch is the search & analytics engine.
-- Filebeat is a lightweight log shipper.
-- Kibana
-- Logstash
+- Kibana. It retrieves data from Elasticsearch and provides tools to visualize and analyze it.
 
 # How the **classic ELK pipeline** works
 
