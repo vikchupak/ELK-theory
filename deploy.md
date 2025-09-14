@@ -1,3 +1,5 @@
+Amazon OpenSearch Service + Logstash + Filebeat > deploy to AWS EKS
+
 # AWS-managed service
 - **Amazon Elasticsearch Service.** Before **2021**. It ran the official `Elasticsearch 7.x and Kibana 7.x` from Elastic under the Apache 2.0 license.
 - **Amazon OpenSearch Service.** After the license change in **2021** (Elastic switched to SSPL/Elastic License).
