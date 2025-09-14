@@ -6,7 +6,10 @@
   - Kibana was forked → OpenSearch Dashboards.
   - AWS continued maintaining backward-compatible API and features.
 
-Only Elasticsearch and Kibana were effected by the licence change. Logstash remains the same.
+---
+
+- Only Elasticsearch and Kibana were effected by the licence change. Logstash remains the same.
+- **Latest Elasticsearch 8.x + Kibana 8.x → require paid subscription.**
 
 # OpenSearch
 
