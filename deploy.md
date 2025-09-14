@@ -1,4 +1,8 @@
-Amazon OpenSearch Service + Logstash + Filebeat > deploy to AWS EKS
+- Amazon OpenSearch Service + Logstash + Filebeat > deploy to AWS EKS.
+- AWS uses a term "domain" to point to "OpenSearch cluster". While OpenSearch itself uses the term cluster internally, AWS adds domain to emphasize:
+  - Managed service boundary (you don’t manage individual nodes directly).
+  - Billing and resource grouping.
+  - Unique endpoint for API access (each domain gets its own URL).
 
 # AWS-managed service
 - **Amazon Elasticsearch Service.** Before **2021**. It ran the official `Elasticsearch 7.x and Kibana 7.x` from Elastic under the Apache 2.0 license.
