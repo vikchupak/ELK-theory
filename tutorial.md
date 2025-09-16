@@ -1,0 +1,2 @@
+- [Setup + filtering](https://www.youtube.com/watch?v=BNOYTbRbaFQ)
+- [Curl to send data to opensearch](https://www.youtube.com/watch?v=SIl5PM4m2KM)
